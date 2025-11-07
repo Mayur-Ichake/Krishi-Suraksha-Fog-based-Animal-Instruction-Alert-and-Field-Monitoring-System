@@ -74,12 +74,17 @@ This system is designed for **low-cost, offline, and solar-powered** operation, 
 - Integration with weather and soil data  
 - Mobile app dashboard for farmers  
 
----
+--- 
 
-## 👨‍💻 Project Team
-**Mayur Ichake & Team**  
+## 👥 Project Team
+| Name | Role | GitHub |
+|------|------|---------|
+| **Mayur Ichake** | Hardware & AI Integration | [github.com/mayurichake](https://github.com/mayurichake) |
+| **Sahil Ichake** | Raspberry Pi Programming & Cloud Setup | [github.com/sahilichake](https://github.com/sahil-ichake) |
+
+Guided by : Prof. Dhananjay Poul, Dept. of ENTC, SPPU Pune.
 Department of Electronics & Telecommunication  
-Savitribai Phule Pune University  
+Savitribai Phule Pune University
 
 ---
 
