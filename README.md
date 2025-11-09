@@ -35,7 +35,7 @@ This system is designed for **low-cost, offline, and solar-powered** operation, 
 ---
 
 ## 🧱 System Block Diagram
-![System Block Diagram](https://github.com/yourusername/krishi-suraksha/blob/main/block_diagram.png)
+![System Block Diagram]([https://github.com/yourusername/krishi-suraksha/blob/main/block_diagram.png](https://github.com/Mayur-Ichake/Krishi-Suraksha-Fog-based-Animal-Instruction-Alert-and-Field-Monitoring-System/blob/main/Block%20Diagram/Block%20Diagram.png))
 
 ---
 
